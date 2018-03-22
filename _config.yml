@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
+title: Kelsey is the best.
 description: A simple template based on minimal jekyll theme
 show_downloads: True
 navigation:
@@ -7,3 +7,5 @@ navigation:
     url: /
   - title: Setup
     url: setup
+title: PZA uptake
+url: pza
