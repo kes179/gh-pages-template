@@ -7,8 +7,8 @@ navigation:
     url: /
   - title: Setup
     url: setup
-  -title: Kelsey is the best.
+  - title: PZA Uptake
     url: pza
-  -title: Isoniazid Uptake
+  - title: Isoniazid Uptake
     url: niz
 
